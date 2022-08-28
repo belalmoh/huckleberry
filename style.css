@@ -74,4 +74,5 @@ main .card {
 
 .intro-chunk {
   padding: calc(var(--unit-pixel) * 2);
+  max-width: calc(var(--unit-pixel) * 50);
 }
